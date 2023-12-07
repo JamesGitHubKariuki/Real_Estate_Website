@@ -1,0 +1,262 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 100px;
+}
+
+nav ul{
+    display: flex;
+    gap: 10px;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #1E3240;
+}
+
+.logo{
+    color: #1E3240;  
+}
+
+.house{
+    display: flex;
+    justify-content: space-between;
+}
+
+.house img{
+    width: 50%;
+}
+
+.house{
+padding: 20px 0px 30px 100px;
+}
+
+.house-2{
+    display: flex;
+    flex-direction: column;
+    padding-block: 100px;
+}
+
+.p1{
+    font-size: 72px;
+    font-weight: bold;
+}
+
+.p2{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.buttons{
+    display: flex;
+    gap: 10px;
+}
+
+.b1 button{
+    background-color: #1E3240;
+    color: #fff;
+    padding: 15px;
+}
+
+.b2 button{
+    background-color: #AFD4E2;;
+    color:#1E3240;
+    padding: 15px;
+}
+
+.hero-section{
+    background-color: #AFD4E2;
+}
+
+.hero-section2 img{
+    width: 50%;
+    height: 75vh;
+}
+
+.hero-section2{
+    display: flex;
+    justify-content: space-between;
+    padding:50px 0px 30px 100px; 
+}
+
+.content{
+    padding-block:50px ;
+    padding-right: 100px;
+}
+
+.content-2{
+    position: absolute;
+    display: flex;
+    gap: 10px;
+    padding: 350px 0 0 640px;
+}
+
+.p3{
+    font-size: 56px;
+    font-weight: bold;
+}
+
+.p4{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.first{
+    color: #AFD4E2;
+}
+
+.second{
+    color: #1E3240;
+    font-weight: bold;
+}
+
+.project{
+    padding: 30px 0 0 100px;
+}
+
+.message h3{
+    font-size: x-large;
+    color: #1E3240;
+}
+
+.projects img{
+    width: 30%;
+    height: 75vh;
+}
+
+.projects{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 100px 30px 100px;
+}
+
+.buttons-2 button{
+   border: none;
+   padding: 15px;
+   background-color: #fff;
+}
+
+.button-1{
+    position: absolute;
+    padding-block: 500px;
+    padding-inline: 200px;
+}
+
+.button-2{
+    position: absolute;
+    padding-block: 500px;
+    padding-inline: 600px;
+}
+
+.button-3{
+    position: absolute;
+    padding-block: 500px;
+    padding-left: 1000px;
+}
+
+.review-p1{
+    padding-top: 30px;
+}
+
+.review{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top:50px 0 20px 0;
+}
+
+.review-2 img{
+    width: 50%;
+    height: 75vh;
+}
+
+.review-2{
+    display: flex;
+    padding-left: 100px;
+}
+
+.review-rv{
+display: flex;
+flex-direction: column;
+padding: 50px 0 0 25px;
+}
+
+.review-p3{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.fa-quote-left{
+    color: #AFD4E2;
+}
+
+.review-p4{
+    font-size: large;
+}
+
+.review-p5{
+    font-size: large;
+    font-weight: bold;
+}
+
+.review-p6{
+    font-size:large;
+    font-weight: bold;
+}
+
+.contact{
+    display: flex;
+    padding:50px 0 50px 100px;
+}
+
+.contact img{
+    width: 50%;
+    height: 75vh;
+}
+
+.contact-h3{
+    padding:20px 0 0 80px;
+}
+
+.details{
+    position: absolute;
+    padding: 120px 0 0 700px;
+}
+
+input{
+    padding:15px ;
+}
+
+.details button{
+    background-color: #1E3240;
+    color: #fff;
+    padding: 15px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px;
+    background-color: #1E3240;
+    color: #fff;
+}
+
+
+
+
